@@ -1,4 +1,4 @@
-# MLOps Assignment 1
+# ML Model Tracking Using MLflow
 
 ## 📌 Problem Statement
 The objective of this assignment is to:
@@ -10,7 +10,7 @@ The objective of this assignment is to:
 ---
 ## 📂 Project Structure
 ```
-mlops-assignment-1/  
+mlops/  
 ├── data/  
 ├── notebooks/  
 ├── src/   
